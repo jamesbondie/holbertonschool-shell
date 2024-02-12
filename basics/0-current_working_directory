@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "/root/holbertonschool-shell/basics"
+#!/bin/bash 
+printf "/basics\n \n"
