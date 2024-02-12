@@ -1,2 +1,2 @@
 #!/bin/bash
-/root/holbertonschool-shell/basics
+echo "/root/holbertonschool-shell/basics"
