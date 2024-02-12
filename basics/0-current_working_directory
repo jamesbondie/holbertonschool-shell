@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "/root/holbertonschool-shell/basics\n"
+echo $PWD
