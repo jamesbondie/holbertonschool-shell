@@ -1,2 +1,3 @@
-#!/bin/bash 
-printf "/basics\n \n"
+#!bin/bash
+printf "/basics"
+
