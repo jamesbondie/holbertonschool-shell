@@ -1,0 +1,7 @@
+case yes in
+    casd)
+	
+	;;
+    
+#!/bin/bash
+tail -n x file >> newfile
